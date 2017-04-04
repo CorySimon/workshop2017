@@ -11,24 +11,30 @@
     <atom:link href="/2017/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Workshop Project 1</title>
-      <link>http://workshop.bcdata.ca/2017/project/project-1/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/project/project-1/</guid>
-      <description>&lt;p&gt;This is an in-depth description of workshop project 1.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Workshop Project 2</title>
+      <title>A Risk-based Platform for Accident Prevention</title>
       <link>http://workshop.bcdata.ca/2017/project/project-2/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2017/project/project-2/</guid>
-      <description>&lt;p&gt;This is an in-depth description of workshop project 2.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;There&amp;rsquo;s an extra line of information in this one.&lt;/p&gt;
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;Check back soon for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video camera compressed bitrate analysis</title>
+      <link>http://workshop.bcdata.ca/2017/project/project-1/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/project/project-1/</guid>
+      <description>
+
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;Check back soon for more details.&lt;/p&gt;
 </description>
     </item>
     

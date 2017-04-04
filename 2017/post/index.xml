@@ -11,9 +11,25 @@
     <atom:link href="/2017/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Registration</title>
+      <link>http://workshop.bcdata.ca/2017/post/registration/</link>
+      <pubDate>Tue, 04 Apr 2017 11:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/registration/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Registration is now open! Please complete
+&lt;a href=&#34;https://goo.gl/forms/dowiyIBurStIvvEq1&#34; target=&#34;_blank&#34;&gt;this Google form&lt;/a&gt; to register for the
+2017 IAM workshop in data science.&lt;/p&gt;
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>The 2017 IAM Data Science Workshop</title>
       <link>http://workshop.bcdata.ca/2017/post/workshop-description/</link>
-      <pubDate>Tue, 04 Apr 2017 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Apr 2017 10:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2017/post/workshop-description/</guid>
       <description>&lt;p&gt;Check back soon for full schedule and details.&lt;/p&gt;
@@ -21,28 +37,55 @@
     </item>
     
     <item>
-      <title>Mini-workshop in background material</title>
+      <title>IAM Short Course</title>
       <link>http://workshop.bcdata.ca/2017/post/prequel-description/</link>
       <pubDate>Mon, 03 Apr 2017 12:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2017/post/prequel-description/</guid>
-      <description>&lt;p&gt;Check back soon for full schedule and details.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>http://workshop.bcdata.ca/2017/post/registration/</link>
-      <pubDate>Mon, 03 Apr 2017 11:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/post/registration/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Registration is now open! Please complete
-&lt;a href=&#34;www.google.ca&#34; target=&#34;_blank&#34;&gt;this Google form&lt;/a&gt; to register for the 2017 IAM workshop in data
-science.&lt;/p&gt;
+      <description>
 
-&lt;/div&gt;
+&lt;h3 id=&#34;a-short-course-in-linear-algebra-and-software-tools&#34;&gt;A short course in linear algebra and software tools&lt;/h3&gt;
 
+&lt;p&gt;There will be an optional short course before the main workshop, covering some
+linear algebra theory combined with an introduction to open source software
+tools for mathematical computing. This short course will run August 9-11 and
+will involve lectures on the theory, combined with computational
+examples. Notes will be posted.&lt;/p&gt;
+
+&lt;h4 id=&#34;day-1-wednesday-august-9&#34;&gt;Day 1: Wednesday August 9&lt;/h4&gt;
+
+&lt;h5 id=&#34;linear-algebra&#34;&gt;Linear algebra:&lt;/h5&gt;
+
+&lt;p&gt;Linear systems, condition number, sparse direct techniques,
+conjugate gradient (Krylov subspace) methods and preconditioning.&lt;/p&gt;
+
+&lt;h5 id=&#34;software&#34;&gt;Software:&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.gnu.org/software/bash/&#34; target=&#34;_blank&#34;&gt;Bash&lt;/a&gt; shell, version control with
+&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;git&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;,
+&lt;a href=&#34;http://jupyter.org/&#34; target=&#34;_blank&#34;&gt;Jupyter&lt;/a&gt; notebooks, and programming in &lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34;&gt;Python&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;day-2-thursday-august-10&#34;&gt;Day 2: Thursday August 10&lt;/h4&gt;
+
+&lt;h5 id=&#34;linear-algebra-1&#34;&gt;Linear algebra:&lt;/h5&gt;
+
+&lt;p&gt;Least squares (regression), vector Newton’s method, nonlinear optimization
+(Newton’s method, gradient descent)&lt;/p&gt;
+
+&lt;h5 id=&#34;software-1&#34;&gt;Software:&lt;/h5&gt;
+
+&lt;p&gt;Scientific computing in Python: &lt;a href=&#34;http://www.numpy.org/&#34; target=&#34;_blank&#34;&gt;NumPy&lt;/a&gt;, &lt;a href=&#34;https://www.scipy.org/&#34; target=&#34;_blank&#34;&gt;SciPy&lt;/a&gt;, &lt;a href=&#34;http://matplotlib.org/&#34; target=&#34;_blank&#34;&gt;matplotlib&lt;/a&gt; and &lt;a href=&#34;http://pandas.pydata.org/&#34; target=&#34;_blank&#34;&gt;pandas&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;day-3-friday-august-11&#34;&gt;Day 3, Friday August 11&lt;/h4&gt;
+
+&lt;h5 id=&#34;linear-algebra-2&#34;&gt;Linear Algebra:&lt;/h5&gt;
+
+&lt;p&gt;Change of basis (FFT), eigen-analysis, singular value decomposition (principle
+component analysis)&lt;/p&gt;
+
+&lt;h5 id=&#34;software-2&#34;&gt;Software:&lt;/h5&gt;
+
+&lt;p&gt;Numerical computing with NumPy and basic machine learning with &lt;a href=&#34;http://scikit-learn.org/stable/&#34; target=&#34;_blank&#34;&gt;scikit-learn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

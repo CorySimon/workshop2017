@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compressed on BC Data</title>
+    <link>http://workshop.bcdata.ca/2017/tags/compressed/index.xml</link>
+    <description>Recent content in Compressed on BC Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Institue of Applied Mathematics</copyright>
+    <atom:link href="/2017/tags/compressed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Video camera compressed bitrate analysis</title>
+      <link>http://workshop.bcdata.ca/2017/project/project-1/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/project/project-1/</guid>
+      <description>
+
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;Check back soon for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

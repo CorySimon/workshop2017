@@ -11,23 +11,23 @@
     <atom:link href="/2017/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>On data science methods</title>
-      <link>http://workshop.bcdata.ca/2017/talk/keynote-1/</link>
+      <title>Workshop begins</title>
+      <link>http://workshop.bcdata.ca/2017/talk/start-of-workshop/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2017/talk/keynote-1/</guid>
-      <description>&lt;p&gt;This is a talk with details.&lt;/p&gt;
+      <guid>http://workshop.bcdata.ca/2017/talk/start-of-workshop/</guid>
+      <description>&lt;p&gt;The workshop begins on August 14. Check back soon for more details.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Registration deadline</title>
       <link>http://workshop.bcdata.ca/2017/talk/example-talk/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2017/talk/example-talk/</guid>
-      <description>&lt;p&gt;The deadline for registration for the workshop is to be determined. To
-register for the workshop, please visit the link above.&lt;/p&gt;
+      <description>&lt;p&gt;The deadline for registration for the workshop is 15 July 2017. To
+register for the workshop and the pre-workshop, please visit the link above.&lt;/p&gt;
 </description>
     </item>
     

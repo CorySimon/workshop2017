@@ -249,7 +249,7 @@ blockquote p:last-child {
 
 #profile .portrait {
   background-image: url('../img/portrait.jpg');
-  border: 1px solid #a1a1a1;
+  /*border: 1px solid #7b68ee;*/
   width: 200px;
   height: 200px;
   margin: 0 auto;

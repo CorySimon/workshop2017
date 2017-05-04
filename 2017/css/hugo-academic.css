@@ -28,7 +28,7 @@ html {
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -892,7 +892,7 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-brand {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-weight: bold;
   font-size: 1.2em;
   color: #2b2b2b;

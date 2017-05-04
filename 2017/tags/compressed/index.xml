@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Compressed on BC Data</title>
+    <title>Compressed on bcdata</title>
     <link>http://workshop.bcdata.ca/2017/tags/compressed/index.xml</link>
-    <description>Recent content in Compressed on BC Data</description>
+    <description>Recent content in Compressed on bcdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Institue of Applied Mathematics</copyright>
+    <copyright>&amp;copy; 2017 bcdata</copyright>
     <atom:link href="/2017/tags/compressed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

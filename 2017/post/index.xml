@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on BC Data</title>
+    <title>Posts on bcdata</title>
     <link>http://workshop.bcdata.ca/2017/post/index.xml</link>
-    <description>Recent content in Posts on BC Data</description>
+    <description>Recent content in Posts on bcdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Institue of Applied Mathematics</copyright>
+    <copyright>&amp;copy; 2017 bcdata</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/2017/post/index.xml" rel="self" type="application/rss+xml" />
     

@@ -10,7 +10,7 @@
     <atom:link href="/2017/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Video camera compressed bitrate analysis</title>
+      <title>Data-driven modeling of video compression</title>
       <link>http://workshop.bcdata.ca/2017/project/project-1/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
@@ -19,7 +19,23 @@
 
 &lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
 
-&lt;p&gt;Check back soon for more details.&lt;/p&gt;
+&lt;p&gt;Despite our hand in their design, and hence their seemingly deterministic
+operation, electronic systems grow ever more complex and are often most simply
+characterized through measurement-driven modeling. This workshop presents
+measurements of the rate at which bits are produced as output of a compression
+algorithm for a digital video camera. The data are produced by presenting the
+camera with a variety of test scenes, and operating it over a variety of
+settings. The data presented here can both simulate the camera&amp;rsquo;s bit rate as a
+function of operating conditions for design purposes, as well as provide some
+insight into how the camera&amp;rsquo;s compression algorithm operates.&lt;/p&gt;
+
+&lt;p&gt;Several other goals will be presented, and participants will be free to
+investigate a variety of possible directions with the data.  Perhaps most
+importantly, complete details of how the data are generated &amp;mdash; namely the
+internal workings of the camera&amp;rsquo;s algorithm &amp;mdash; are not available.  Despite this
+fact, we believe that systems as elaborate as those that can control the
+camera&amp;rsquo;s bit rate under changing conditions can be achieved with good modeling
+practice on these available data.&lt;/p&gt;
 </description>
     </item>
     

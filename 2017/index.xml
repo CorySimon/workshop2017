@@ -32,6 +32,106 @@ register for the workshop and the pre-workshop, please visit the link above.&lt;
     </item>
     
     <item>
+      <title>Predicting and improving timeliness and personalization of Mobile Engagement messages</title>
+      <link>http://workshop.bcdata.ca/2017/project/project-3/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/project/project-3/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Mobile Engagement messaging is a relatively new domain for marketers.  It is the responsibility of technology companies to ensure that this new way of interacting with their customers is not abused.  At Mobify, we aim to do this by looking at data, to suggest best practices for Engaging with customers to reduce spam, and improve their experience.&lt;/p&gt;
+
+&lt;p&gt;Mobify collects millions of data points each month and currently delivers a full mobile experience to its clients. With your data modelling expertise, our goal is to personalize shoppers’ mobile experiences to reduce the noise and friction of their mobile experience.&lt;/p&gt;
+
+&lt;p&gt;The technical challenge is to develop predictive models that measure the timeliness and relevance of the mobile messages. Such predictive models can provide recommendations on how best to engage with shoppers:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Who - Personalize to the different type of shoppers&lt;/li&gt;
+&lt;li&gt;When - When would be best to engage with shoppers&lt;/li&gt;
+&lt;li&gt;What - What content engages with shoppers the most.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Available data will include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anonymized mobile behaviour data from different brands&lt;/li&gt;
+&lt;li&gt;Anonymized Push message content for those customers&lt;/li&gt;
+&lt;li&gt;Weather data for particular locations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Hop: Real-Time Agricultural Sensing</title>
+      <link>http://workshop.bcdata.ca/2017/project/project-4/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/project/project-4/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;We are working with hop farmers around the province to develop the
+world’s first beer terroir. Terroir is a term used in the wine
+industry that refers to the unique flavours and aromas of grapes from
+different regions. It’s what people are talking about when comparing a
+wine from BC with a similar one from France. We want to work with you
+to develop terroir for beer. Instead of using grapes we are focusing
+on hops, one of the main ingredients in beer.&lt;/p&gt;
+
+&lt;p&gt;Discovering hop terroir is important because hops from all over are
+sent to processing facilities to be dried, bundled and sold
+together. That means that all the tasty regional differences of each
+hop variety are washed out by the time they get to the brewer. Imagine
+how boring it would be if you could only order “IPA” or “stout” and
+not choose from the thousands of beers produced by different
+breweries. That’s what it’s like for hops, with brewers choosing only
+“centennial” or “cascade” without being able to pick from different
+regions with their own unique flavours. Let’s change this.&lt;/p&gt;
+
+&lt;p&gt;We have developed a soil sensor system that measures temperature and
+moisture for both soil and air at different depths and heights,
+respectively. Each sensor has one base station with several nodes. We
+will collect data from many nodes, across several sensors within a
+farm at 5-minute intervals. This will give us a baseline for assessing
+growing conditions. We will know, at any given time, the temperature
+and moisture content of the air and soil throughout a farm. We will
+use these data in conjunction with data on farm management practices,
+soil chemistry, and soil microbial genetics to create a set of
+dependent variables for a predictive model of the environmental and
+management (farming) influences on hop yield and quality. Our
+dependent variables will be the weight of harvested hops per
+hectare/plant, quality of hops (measured by chemical analysis), and
+flavour (measured by brewing several beers using the exact same recipe
+and hop variety but from different regions and getting people to drink
+them and report back en-masse).&lt;/p&gt;
+
+&lt;p&gt;We want to be able to help farmers produce better hops so that
+breweries can make better beers, but we don’t want to have to build
+more sensors than is necessary to measure growing conditions on a
+farm. This is where we need your help. We are looking to develop an
+algorithm that will predict moisture and temperature between senor
+nodes. To do this effectively we will provide some additional
+data. This will include an elevation map of the farm and information
+on soil type and characteristics (e.g. water retention capacity and
+compaction)&lt;/p&gt;
+
+&lt;p&gt;Being able to predict farm conditions with fewer sensors will help
+this technology become more affordable to small-scale producers
+allowing more growers to make better and more unique hops so we can
+all enjoy great beer. Real-time environmental monitoring of farms will
+also help farmers of all crop types have access to a technology that
+will allow them to better understand their land and adapt their
+management practices in real-time (e.g. changing or automating
+irrigation and fertilizer schedules as needed, when needed).&lt;/p&gt;
+
+&lt;p&gt;We look forward to the opportunity to work with you on this project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Registration</title>
       <link>http://workshop.bcdata.ca/2017/post/registration/</link>
       <pubDate>Tue, 04 Apr 2017 11:00:00 +0000</pubDate>
@@ -132,46 +232,6 @@ prevent those accidents from occurring. Opportunities exist for
 greater connectivity among various databases to maximize the risk
 knowledge, especially the pre incident data based on inspections and
 post incident data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data-driven modeling of video compression</title>
-      <link>http://workshop.bcdata.ca/2017/project/project-1/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/project/project-1/</guid>
-      <description>
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Despite our hand in their design, and hence their seemingly deterministic
-operation, electronic systems grow ever more complex and are often most simply
-characterized through measurement-driven modeling. This workshop presents
-measurements of the rate at which bits are produced as output of a compression
-algorithm for a digital video camera. The data are produced by presenting the
-camera with a variety of test scenes, and operating it over a variety of
-settings. The data presented here can both simulate the camera&amp;rsquo;s bit rate as a
-function of operating conditions for design purposes, as well as provide some
-insight into how the camera&amp;rsquo;s compression algorithm operates.&lt;/p&gt;
-
-&lt;p&gt;Several other goals will be presented, and participants will be free to
-investigate a variety of possible directions with the data.  Perhaps most
-importantly, complete details of how the data are generated &amp;mdash; namely the
-internal workings of the camera&amp;rsquo;s algorithm &amp;mdash; are not available.  Despite this
-fact, we believe that systems as elaborate as those that can control the
-camera&amp;rsquo;s bit rate under changing conditions can be achieved with good modeling
-practice on these available data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Workshop details</title>
-      <link>http://workshop.bcdata.ca/2017/publication/clothing-search/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

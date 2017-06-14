@@ -20,6 +20,22 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/project/project-3/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/project/project-4/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/post/registration/</loc>
       <lastmod>2017-04-04T11:00:00+00:00</lastmod>
     </url>
@@ -126,6 +142,15 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/analytics/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/tags/bc-data/</loc>
       <lastmod>2017-04-04T11:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -198,6 +223,24 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/image-processing/</loc>
+      <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/improving/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/tags/linear/</loc>
       <lastmod>2017-04-04T10:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -208,7 +251,34 @@
     
     <url>
       <loc>http://workshop.bcdata.ca/2017/tags/machine-learning/</loc>
-      <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/messages/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/mobify/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/mobile-engagement/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -217,7 +287,7 @@
     
     <url>
       <loc>http://workshop.bcdata.ca/2017/tags/modeling/</loc>
-      <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -227,6 +297,24 @@
     <url>
       <loc>http://workshop.bcdata.ca/2017/tags/modelling/</loc>
       <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/personalization/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/predicting/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -244,7 +332,7 @@
     
     <url>
       <loc>http://workshop.bcdata.ca/2017/project/</loc>
-      <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -313,7 +401,25 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/timeliness/</loc>
+      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/tags/video/</loc>
+      <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/video-analytics/</loc>
       <lastmod>2017-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

@@ -11,6 +11,49 @@
     <atom:link href="/2017/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Career Panel</title>
+      <link>http://workshop.bcdata.ca/2017/talk/career-panel/</link>
+      <pubDate>Wed, 16 Aug 2017 18:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/career-panel/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Join us on the evening of August 16th for a career panel and social
+for mathematicians who are contemplating non-academic career
+options.&lt;/p&gt;
+
+&lt;p&gt;The panel includes several Math PhDs now working in industry,
+as well as a senior manager at Amazon who interfaces with &amp;mdash; and
+hires &amp;mdash; mathematicians and computer scientists. The Q&amp;amp;A
+session will be followed by a social with complementary food and
+beverage.&lt;/p&gt;
+
+&lt;p&gt;This event will be held at the Mobify headquarters downtown, nearly
+adjacent to UBC Robson Square. Please &lt;a href=&#34;https://goo.gl/maps/aVGFmNH1huB2&#34; target=&#34;_blank&#34;&gt;click
+here&lt;/a&gt; for a map.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lilian Wong&lt;/strong&gt;, Ph.D. Mathematics (CalTech)&lt;br /&gt;
+Research Scientist at Amazon Vancouver&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Roger Donaldson&lt;/strong&gt;, Ph.D. Mathematics (CalTech)
+Technical Consultant at Midvale Applied Mathematics Inc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bernard Chan&lt;/strong&gt;, Ph.D. Applied Mathematics (Western University)
+Data Scientist at BuildDirect Technologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zak Islam&lt;/strong&gt;&lt;br /&gt;
+Sr. Manager, AWS Messaging at Amazon Web Services&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-details&#34;&gt;More details&lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href=&#34;./../../post/career-panel&#34;&gt;panel post&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Workshop begins</title>
       <link>http://workshop.bcdata.ca/2017/talk/start-of-workshop/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
@@ -22,12 +65,71 @@
     
     <item>
       <title>Registration deadline</title>
-      <link>http://workshop.bcdata.ca/2017/talk/example-talk/</link>
+      <link>http://workshop.bcdata.ca/2017/talk/registration-deadline/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2017/talk/example-talk/</guid>
+      <guid>http://workshop.bcdata.ca/2017/talk/registration-deadline/</guid>
       <description>&lt;p&gt;The deadline for registration for the workshop is 15 July 2017. To
 register for the workshop and the pre-workshop, please visit the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Career Panel: Mathematicians in Industry</title>
+      <link>http://workshop.bcdata.ca/2017/post/career-panel/</link>
+      <pubDate>Wed, 14 Jun 2017 15:09:09 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/career-panel/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Join us on &lt;strong&gt;August 16th at 6:00 PM&lt;/strong&gt; for a career panel and reception/buffet
+for mathematicians who are contemplating non-academic career
+options.&lt;/p&gt;
+
+&lt;p&gt;The panel includes at least 3 Math PhDs now working in industry, as
+well as a senior manager at Amazon who interfaces with (and hires!)
+mathematicians and computer scientists. The discussion will be
+moderated by Lee Rippon, a graduate student at UBC.&lt;/p&gt;
+
+&lt;p&gt;The Q&amp;amp;A session will be followed by a reception and buffet dinner
+from 7:00 PM to 9:00 PM. Students and industry members will have a
+chance to mingle and share their unique perspectives while they enjoy
+complementary beverages.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lilian Wong&lt;/strong&gt;, Ph.D. Mathematics (CalTech)&lt;br /&gt;
+Research Scientist at Amazon Vancouver&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Roger Donaldson&lt;/strong&gt;, Ph.D. Mathematics (CalTech)
+Technical Consultant at Midvale Applied Mathematics Inc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bernard Chan&lt;/strong&gt;, Ph.D. Applied Mathematics (Western University)
+Data Scientist at BuildDirect Technologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zak Islam&lt;/strong&gt;&lt;br /&gt;
+Sr. Manager, AWS Messaging at Amazon Web Services&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
+
+&lt;p&gt;This event will be held at the Mobify headquarters downtown, 18:00
+&amp;ndash; 21:00. Conveniently, their HQ is nearly adjacent to Robson
+Square. Please &lt;a href=&#34;https://goo.gl/maps/aVGFmNH1huB2&#34; target=&#34;_blank&#34;&gt;click here&lt;/a&gt; to view it on Google maps.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop Location</title>
+      <link>http://workshop.bcdata.ca/2017/post/location-update/</link>
+      <pubDate>Wed, 14 Jun 2017 14:05:10 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/location-update/</guid>
+      <description>&lt;p&gt;The bcdata workshop will take place at Robson Square in downtown Vancouver &amp;mdash; a convenient location for industry members and UBC &amp;amp; SFU students alike.&lt;/p&gt;
+
+&lt;p&gt;The venue will have a large lecture room and several break-out rooms for group work.&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&#34;https://www.google.ca/maps/dir//UBC+Robson+Square,+800+Robson+St,+Vancouver,+BC+V6Z+3B7/@49.2827322,-123.1232848,17z/data=!4m15!1m6!3m5!1s0x5486717fec4f633f:0xbc9df6183755b650!2sUBC+Robson+Square!8m2!3d49.2827322!4d-123.1210961!4m7!1m0!1m5!1m1!1s0x5486717fec4f633f:0xbc9df6183755b650!2m2!1d-123.1210961!2d49.2827322?hl=en&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for directions to the workshop venue.&lt;/p&gt;
 </description>
     </item>
     
@@ -144,94 +246,8 @@ irrigation and fertilizer schedules as needed, when needed).&lt;/p&gt;
 
 &lt;/div&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>The 2017 bcdata Data Science Workshop</title>
-      <link>http://workshop.bcdata.ca/2017/post/workshop-description/</link>
-      <pubDate>Tue, 04 Apr 2017 10:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/post/workshop-description/</guid>
-      <description>&lt;p&gt;Check back soon for full schedule and details.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IAM Short Course</title>
-      <link>http://workshop.bcdata.ca/2017/post/prequel-description/</link>
-      <pubDate>Mon, 03 Apr 2017 12:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/post/prequel-description/</guid>
-      <description>
 
-&lt;h3 id=&#34;a-short-course-in-linear-algebra-and-software-tools&#34;&gt;A short course in linear algebra and software tools&lt;/h3&gt;
-
-&lt;p&gt;There will be an optional short course before the main workshop, covering some
-linear algebra theory combined with an introduction to open source software
-tools for mathematical computing. This short course will run August 9-11 and
-will involve lectures on the theory, combined with computational
-examples. Notes will be posted.&lt;/p&gt;
-
-&lt;h4 id=&#34;day-1-wednesday-august-9&#34;&gt;Day 1: Wednesday August 9&lt;/h4&gt;
-
-&lt;h5 id=&#34;linear-algebra&#34;&gt;Linear algebra:&lt;/h5&gt;
-
-&lt;p&gt;Linear systems, condition number, sparse direct techniques,
-conjugate gradient (Krylov subspace) methods and preconditioning.&lt;/p&gt;
-
-&lt;h5 id=&#34;software&#34;&gt;Software:&lt;/h5&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.gnu.org/software/bash/&#34; target=&#34;_blank&#34;&gt;Bash&lt;/a&gt; shell, version control with
-&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;git&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;,
-&lt;a href=&#34;http://jupyter.org/&#34; target=&#34;_blank&#34;&gt;Jupyter&lt;/a&gt; notebooks, and programming in &lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34;&gt;Python&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&#34;day-2-thursday-august-10&#34;&gt;Day 2: Thursday August 10&lt;/h4&gt;
-
-&lt;h5 id=&#34;linear-algebra-1&#34;&gt;Linear algebra:&lt;/h5&gt;
-
-&lt;p&gt;Least squares (regression), vector Newton’s method, nonlinear optimization
-(Newton’s method, gradient descent)&lt;/p&gt;
-
-&lt;h5 id=&#34;software-1&#34;&gt;Software:&lt;/h5&gt;
-
-&lt;p&gt;Scientific computing in Python: &lt;a href=&#34;http://www.numpy.org/&#34; target=&#34;_blank&#34;&gt;NumPy&lt;/a&gt;, &lt;a href=&#34;https://www.scipy.org/&#34; target=&#34;_blank&#34;&gt;SciPy&lt;/a&gt;, &lt;a href=&#34;http://matplotlib.org/&#34; target=&#34;_blank&#34;&gt;matplotlib&lt;/a&gt; and &lt;a href=&#34;http://pandas.pydata.org/&#34; target=&#34;_blank&#34;&gt;pandas&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;day-3-friday-august-11&#34;&gt;Day 3, Friday August 11&lt;/h4&gt;
-
-&lt;h5 id=&#34;linear-algebra-2&#34;&gt;Linear Algebra:&lt;/h5&gt;
-
-&lt;p&gt;Change of basis (FFT), eigen-analysis, singular value decomposition (principle
-component analysis)&lt;/p&gt;
-
-&lt;h5 id=&#34;software-2&#34;&gt;Software:&lt;/h5&gt;
-
-&lt;p&gt;Numerical computing with NumPy and basic machine learning with &lt;a href=&#34;http://scikit-learn.org/stable/&#34; target=&#34;_blank&#34;&gt;scikit-learn&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A risk-based platform for accident prevention</title>
-      <link>http://workshop.bcdata.ca/2017/project/project-2/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/project/project-2/</guid>
-      <description>
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;BC Safety Authority’s accident prevention strategy follows a risk
-based platform, called “bow tie” for ongoing management and prevention
-of major incidents. The bow tie method draws on the direct experience
-of safety management team and the data collected from various safety
-oversight programs in order to identify hazards and to properly
-incorporate critical controls into management systems. In addition, it
-raises awareness and improves understanding and risk knowledge of the
-potential major incidents and the reliance on critical controls that
-prevent those accidents from occurring. Opportunities exist for
-greater connectivity among various databases to maximize the risk
-knowledge, especially the pre incident data based on inspections and
-post incident data.&lt;/p&gt;
+&lt;p&gt;The registration deadline for this workshop is 15 July, 2017. Please note that registration is already near capacity, so register soon to ensure you will be able to attend.&lt;/p&gt;
 </description>
     </item>
     

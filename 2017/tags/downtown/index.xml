@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downtown on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/tags/downtown/index.xml</link>
+    <description>Recent content in Downtown on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata</copyright>
+    <atom:link href="/2017/tags/downtown/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Workshop Location</title>
+      <link>http://workshop.bcdata.ca/2017/post/location-update/</link>
+      <pubDate>Wed, 14 Jun 2017 14:05:10 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/location-update/</guid>
+      <description>&lt;p&gt;The bcdata workshop will take place at Robson Square in downtown Vancouver &amp;mdash; a convenient location for industry members and UBC &amp;amp; SFU students alike.&lt;/p&gt;
+
+&lt;p&gt;The venue will have a large lecture room and several break-out rooms for group work.&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&#34;https://www.google.ca/maps/dir//UBC+Robson+Square,+800+Robson+St,+Vancouver,+BC+V6Z+3B7/@49.2827322,-123.1232848,17z/data=!4m15!1m6!3m5!1s0x5486717fec4f633f:0xbc9df6183755b650!2sUBC+Robson+Square!8m2!3d49.2827322!4d-123.1210961!4m7!1m0!1m5!1m1!1s0x5486717fec4f633f:0xbc9df6183755b650!2m2!1d-123.1210961!2d49.2827322?hl=en&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for directions to the workshop venue.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

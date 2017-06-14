@@ -11,6 +11,49 @@
     <atom:link href="/2017/talk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Career Panel</title>
+      <link>http://workshop.bcdata.ca/2017/talk/career-panel/</link>
+      <pubDate>Wed, 16 Aug 2017 18:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/career-panel/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Join us on the evening of August 16th for a career panel and social
+for mathematicians who are contemplating non-academic career
+options.&lt;/p&gt;
+
+&lt;p&gt;The panel includes several Math PhDs now working in industry,
+as well as a senior manager at Amazon who interfaces with &amp;mdash; and
+hires &amp;mdash; mathematicians and computer scientists. The Q&amp;amp;A
+session will be followed by a social with complementary food and
+beverage.&lt;/p&gt;
+
+&lt;p&gt;This event will be held at the Mobify headquarters downtown, nearly
+adjacent to UBC Robson Square. Please &lt;a href=&#34;https://goo.gl/maps/aVGFmNH1huB2&#34; target=&#34;_blank&#34;&gt;click
+here&lt;/a&gt; for a map.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lilian Wong&lt;/strong&gt;, Ph.D. Mathematics (CalTech)&lt;br /&gt;
+Research Scientist at Amazon Vancouver&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Roger Donaldson&lt;/strong&gt;, Ph.D. Mathematics (CalTech)
+Technical Consultant at Midvale Applied Mathematics Inc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bernard Chan&lt;/strong&gt;, Ph.D. Applied Mathematics (Western University)
+Data Scientist at BuildDirect Technologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zak Islam&lt;/strong&gt;&lt;br /&gt;
+Sr. Manager, AWS Messaging at Amazon Web Services&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-details&#34;&gt;More details&lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href=&#34;./../../post/career-panel&#34;&gt;panel post&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Workshop begins</title>
       <link>http://workshop.bcdata.ca/2017/talk/start-of-workshop/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
@@ -22,10 +65,10 @@
     
     <item>
       <title>Registration deadline</title>
-      <link>http://workshop.bcdata.ca/2017/talk/example-talk/</link>
+      <link>http://workshop.bcdata.ca/2017/talk/registration-deadline/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2017/talk/example-talk/</guid>
+      <guid>http://workshop.bcdata.ca/2017/talk/registration-deadline/</guid>
       <description>&lt;p&gt;The deadline for registration for the workshop is 15 July 2017. To
 register for the workshop and the pre-workshop, please visit the link above.&lt;/p&gt;
 </description>

@@ -4,6 +4,14 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/talk/career-panel/</loc>
+      <lastmod>2017-08-16T18:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/talk/start-of-workshop/</loc>
       <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     </url>
@@ -12,8 +20,24 @@
     
     
     <url>
-      <loc>http://workshop.bcdata.ca/2017/talk/example-talk/</loc>
+      <loc>http://workshop.bcdata.ca/2017/talk/registration-deadline/</loc>
       <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/post/career-panel/</loc>
+      <lastmod>2017-06-14T15:09:09-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/post/location-update/</loc>
+      <lastmod>2017-06-14T14:05:10-07:00</lastmod>
     </url>
     
   
@@ -178,6 +202,24 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/career/</loc>
+      <lastmod>2017-06-14T15:09:09-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/career-panel/</loc>
+      <lastmod>2017-06-14T15:09:09-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/tags/compressed/</loc>
       <lastmod>2017-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -214,6 +256,15 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/downtown/</loc>
+      <lastmod>2017-06-14T14:05:10-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/tags/iam/</loc>
       <lastmod>2017-04-04T11:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -241,6 +292,24 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/industry/</loc>
+      <lastmod>2017-06-14T15:09:09-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/jobs/</loc>
+      <lastmod>2017-06-14T15:09:09-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/tags/linear/</loc>
       <lastmod>2017-04-04T10:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -250,8 +319,26 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/location/</loc>
+      <lastmod>2017-06-14T14:05:10-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2017/tags/machine-learning/</loc>
       <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/mathematicians/</loc>
+      <lastmod>2017-06-14T15:09:09-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -359,6 +446,15 @@
     <url>
       <loc>http://workshop.bcdata.ca/2017/tags/risk/</loc>
       <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2017/tags/robson-square/</loc>
+      <lastmod>2017-06-14T14:05:10-07:00</lastmod>
       <priority>0</priority>
     </url>
     

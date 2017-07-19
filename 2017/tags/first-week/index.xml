@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Week on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/tags/first-week/index.xml</link>
+    <description>Recent content in First Week on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata</copyright>
+    <atom:link href="/2017/tags/first-week/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 1: Basic Topics</title>
+      <link>http://workshop.bcdata.ca/2017/post/first-week-lectures/</link>
+      <pubDate>Wed, 19 Jul 2017 09:50:40 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/first-week-lectures/</guid>
+      <description>
+
+&lt;h1 id=&#34;focus&#34;&gt;Focus&lt;/h1&gt;
+
+&lt;p&gt;Interactive lectures on introductory topics in data science will comprise the
+mronings of the first week of the workshop. The first three lectures will be
+led by
+&lt;a href=&#34;https://www.ischool.berkeley.edu/people/isabell-konrad&#34; target=&#34;_blank&#34;&gt;Isabell Konrad&lt;/a&gt; and
+will cover classification, regression, clustering and neural
+networks. Thursday&amp;rsquo;s lecture by &lt;a href=&#34;http://epims.med.ubc.ca/our-team/faculty/yinshan-zhao/&#34; target=&#34;_blank&#34;&gt;Yinshan Zhao&lt;/a&gt; will cover hypothesis testing and experimental
+design, while Friday&amp;rsquo;s lecture by Michael Reid will showcase modern software
+tools for data scientists.&lt;/p&gt;
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+
+&lt;h3 id=&#34;linear-and-logistic-regression&#34;&gt;Linear and Logistic regression.&lt;/h3&gt;
+
+&lt;p&gt;We will understand the first ML algorithm Linear Regression. We talk about train-test-split, normalization of the data, the problem of overfitting and regularization. A short code example shows how to use these tools in practice (using scikit-learn). Introduction to classification with metrics, Logistic Regression and coding example.&lt;/p&gt;
+
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+
+&lt;h3 id=&#34;important-classifiers-and-clustering-methods&#34;&gt;Important classifiers and clustering methods.&lt;/h3&gt;
+
+&lt;p&gt;Decision Trees, ensembling methods. In addition: We learn K-Nearest-Neighbours and how to cluster data using KMeans. In a short code example the application of these methods is demonstrated.&lt;/p&gt;
+
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+
+&lt;h3 id=&#34;neural-networks&#34;&gt;Neural Networks.&lt;/h3&gt;
+
+&lt;p&gt;This lecture is about Neural Networks, as well as feature engineering and a short code example in TensorFlow.&lt;/p&gt;
+
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+
+&lt;h3 id=&#34;hypothesis-testing-and-experimental-design&#34;&gt;Hypothesis testing and experimental design.&lt;/h3&gt;
+
+&lt;p&gt;Firstly, we will discuss the purpose of hypothesis testing and learn how to do it. Through examples, we will introduce basic concepts, testing procedures, common misinterpretations and connection between hypothesis testing and estimation. Then we will discuss statistical considerations in study designs, such as sampling, controls, randomization, sample size and power. Finally, we will look into multiple testing procedures.&lt;/p&gt;
+
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+
+&lt;h3 id=&#34;modern-software-tools-for-data-scientists&#34;&gt;Modern Software Tools for Data Scientists.&lt;/h3&gt;
+
+&lt;p&gt;This lecture will cover the “plumbing” of data science — the software used for data ingestion, cleaning, storage, and analysis. We will provide an overview of the tools currently used by enterprises ingesting hundreds of thousand events per second and handling petabytes of data. Attendees will have a hands-on introduction to the machine learning tools used in industry, including distributed processing with AWS and Apache Spark. We also look into the future at the new generation of native stream processing platforms, used for real-time machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

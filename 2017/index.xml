@@ -11,6 +11,91 @@
     <atom:link href="/2017/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Sequential Monte Carlo for Statistical Inference</title>
+      <link>http://workshop.bcdata.ca/2017/talk/sequential-mc-for-inference/</link>
+      <pubDate>Thu, 24 Aug 2017 13:30:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/sequential-mc-for-inference/</guid>
+      <description>
+
+&lt;p&gt;Note: the talk might be on time-series modelling instead.&lt;/p&gt;
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chbe.ubc.ca/profile/bhushan-gopaluni/&#34; target=&#34;_blank&#34;&gt;Dr. Bhushan Gopaluni&lt;/a&gt; is a
+Professor in the Department of Chemical and Biological Engineering at UBC,
+working with the
+&lt;a href=&#34;http://dais.chbe.ubc.ca/&#34; target=&#34;_blank&#34;&gt;Data Analytics and Intelligent Systems&lt;/a&gt; lab.&lt;/p&gt;
+
+&lt;p&gt;Dr. Gopaluni’s primary research interests are in Process Modeling and
+Control. He is interested in developing and studying the properties of
+data-based models for a variety of chemical and biological systems. These
+systems are typically nonlinear, hybrid and time varying, and their
+measurements are often noisy and irregular. The thrust of his research is on
+developing high quality models for such processes and adapting them to reflect
+process changes. His research interests also span a wide range of other areas
+including identification for control, model predictive controllers, adaptive
+control, and performance monitoring and assessment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compressed Sensing and Its Applications</title>
+      <link>http://workshop.bcdata.ca/2017/talk/compressed-sensing-and-applications/</link>
+      <pubDate>Wed, 23 Aug 2017 10:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/compressed-sensing-and-applications/</guid>
+      <description>
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://benadcock.org/&#34; target=&#34;_blank&#34;&gt;Ben Adcock&lt;/a&gt; is a tenure-track assistant professor at
+Simon Fraser University. From 2012-2014 he was a tenure-track assistant
+professor at Purdue University. Previously, he was a NSERC/PIMS postdoctoral
+fellow at Simon Fraser University from 2010-2012, working with Nilima Nigam,
+and from 2006-2010 he was a PhD student in the Numerical Analysis group at the
+University of Cambridge under the supervision of Arieh Iserles.&lt;/p&gt;
+
+&lt;p&gt;He received the CAIMS/PIMS Early Career Award in 2017, an Alfred P. Sloan Research Fellowship in 2015 and a Leslie Fox Prize in Numerical Analysis in 2011.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inferring the Past for Traits that Alter Speciation and Extinction</title>
+      <link>http://workshop.bcdata.ca/2017/talk/inferring-traits-speciation-extinction/</link>
+      <pubDate>Tue, 22 Aug 2017 10:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/inferring-traits-speciation-extinction/</guid>
+      <description>
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zoology.ubc.ca/~otto/&#34; target=&#34;_blank&#34;&gt;Sarah (Sally) P. Otto&lt;/a&gt;. University Killam &amp;amp; CRC (Tier 1) Professor, Department of Zoology &amp;amp; Director, Liber Ero Post-doctoral Program, University of British Columbia; B.Sc. and Ph.D. from Stanford University. Understanding how evolution has led to the remarkable diversity of life is the key motivating force behind my research. Mathematical models allow us to determine which evolutionary transitions are plausible, which are probable, and which are inaccessible. Complementing this theoretical approach, we use experimental evolution to track yeast as they evolve, allowing us to test alternative hypotheses. Dr. Otto’s research into the evolutionary forces leading to biological diversity has resulted in over 170 publications and a book. Awards include a MacArthur Fellowship, a Guggenheim Fellowship, the Steacie Prize (National Research Council, Canada), and fellowship in the Royal Society of Canada, the American Academy of Arts and Sciences, and the National Academy of Sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational linguistics</title>
+      <link>http://workshop.bcdata.ca/2017/talk/computational-linguistics/</link>
+      <pubDate>Mon, 21 Aug 2017 10:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/computational-linguistics/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; talk title and abstract to be confirmed.&lt;/p&gt;
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://people.math.sfu.ca/~tupper/Homepage/Welcome.html&#34; target=&#34;_blank&#34;&gt;Dr. Paul Tupper&lt;/a&gt; is
+an associate professor and tier 2 Canada Research Chair in the Department of
+Matheamtics at Simon Fraser University. Dr. Tupper&amp;rsquo;s interests are in Molecular
+dynamics, phase field models, phylogenetics, statistical mechanics, stochastic
+differential equations, mathematical modelling in linguistics; and numerical
+algorithms for all of these things.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Career Panel</title>
       <link>http://workshop.bcdata.ca/2017/talk/career-panel/</link>
       <pubDate>Wed, 16 Aug 2017 18:00:00 -0700</pubDate>
@@ -66,192 +151,87 @@ Co-founder &amp;amp; CSO, Tideline Data&lt;/li&gt;
     </item>
     
     <item>
-      <title>Registration deadline</title>
-      <link>http://workshop.bcdata.ca/2017/talk/registration-deadline/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <title>Week 2: Advanced Topics</title>
+      <link>http://workshop.bcdata.ca/2017/post/advanced-topics/</link>
+      <pubDate>Wed, 19 Jul 2017 10:27:08 -0700</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2017/talk/registration-deadline/</guid>
-      <description>&lt;p&gt;The deadline for registration for the workshop is 15 July 2017. To
-register for the workshop and the pre-workshop, please visit the link above.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Career Panel: Mathematicians in Industry</title>
-      <link>http://workshop.bcdata.ca/2017/post/career-panel/</link>
-      <pubDate>Wed, 14 Jun 2017 15:09:09 -0700</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/post/career-panel/</guid>
+      <guid>http://workshop.bcdata.ca/2017/post/advanced-topics/</guid>
       <description>
 
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
 
-&lt;p&gt;Join us on &lt;strong&gt;August 16th at 6:00 PM&lt;/strong&gt; for a career panel and reception/buffet
-for mathematicians who are contemplating non-academic career
-options.&lt;/p&gt;
+&lt;p&gt;In the mornings of the second week of the workshop, we will host advanced lectures on topics pertaining to data science. These talks are expected to be more academic in nature, showcasing research and research tools used by professors in either academia or industry. Speaker bios and abstracts can be found below.&lt;/p&gt;
 
-&lt;p&gt;The panel includes at least 3 Math PhDs now working in industry, as
-well as a senior manager at Amazon who interfaces with (and hires!)
-mathematicians and computer scientists. The discussion will be
-moderated by Lee Rippon, a graduate student at UBC.&lt;/p&gt;
+&lt;h1 id=&#34;talks&#34;&gt;Talks&lt;/h1&gt;
 
-&lt;p&gt;The Q&amp;amp;A session will be followed by a reception and buffet dinner
-from 7:00 PM to 9:00 PM. Students and industry members will have a
-chance to mingle and share their unique perspectives while they enjoy
-complementary beverages.&lt;/p&gt;
+&lt;h3 id=&#34;inferring-the-past-for-traits-that-alter-speciation-and-extinction-talk-inferring-traits-speciation-extinction&#34;&gt;&lt;a href=&#34;../../talk/inferring-traits-speciation-extinction&#34;&gt;Inferring the Past for Traits that Alter Speciation and Extinction&lt;/a&gt;&lt;/h3&gt;
 
-&lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Sarah Otto (&lt;a href=&#34;http://www.zoology.ubc.ca/~otto/&#34; target=&#34;_blank&#34;&gt;UBC Zoology&lt;/a&gt;)&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Lilian Wong&lt;/strong&gt;, Ph.D. Mathematics (CalTech)&lt;br /&gt;
-Research Scientist at Amazon Vancouver&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Roger Donaldson&lt;/strong&gt;, Ph.D. Mathematics (CalTech)
-Technical Consultant at Midvale Applied Mathematics Inc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bernard Chan&lt;/strong&gt;, Ph.D. Applied Mathematics (Western University)
-Data Scientist at BuildDirect Technologies&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Zak Islam&lt;/strong&gt;&lt;br /&gt;
-Sr. Manager, AWS Messaging at Amazon Web Services&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Peter Gorniak&lt;/strong&gt;, Ph.D. (MIT)&lt;br /&gt;
-Co-founder &amp;amp; CSO, Tideline Data&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;compressed-sensing-and-applications-talk-compressed-sensing-and-applications&#34;&gt;&lt;a href=&#34;../../talk/compressed-sensing-and-applications&#34;&gt;Compressed Sensing and Applications&lt;/a&gt;&lt;/h3&gt;
 
-&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Ben Adcock (&lt;a href=&#34;https://benadcock.org/&#34; target=&#34;_blank&#34;&gt;SFU Mathematics&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;This event will be held at the Mobify headquarters downtown, 18:00
-&amp;ndash; 21:00. Conveniently, their HQ is nearly adjacent to Robson
-Square. Please &lt;a href=&#34;https://goo.gl/maps/aVGFmNH1huB2&#34; target=&#34;_blank&#34;&gt;click here&lt;/a&gt; to view it on Google maps.&lt;/p&gt;
+&lt;h3 id=&#34;sequential-monte-carlo-for-statistical-inference-talk-sequential-mc-for-inference&#34;&gt;&lt;a href=&#34;../../talk/sequential-mc-for-inference&#34;&gt;Sequential Monte Carlo for Statistical Inference&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Bhushan Gopaluni (&lt;a href=&#34;http://dais.chbe.ubc.ca/&#34; target=&#34;_blank&#34;&gt;DAIS Lab&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&#34;computational-linguistics-talk-computational-linguistics&#34;&gt;&lt;a href=&#34;../../talk/computational-linguistics&#34;&gt;Computational Linguistics&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Paul Tupper (&lt;a href=&#34;http://people.math.sfu.ca/~tupper/Homepage/Welcome.html&#34; target=&#34;_blank&#34;&gt;SFU Mathematics&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Workshop Location</title>
-      <link>http://workshop.bcdata.ca/2017/post/location-update/</link>
-      <pubDate>Wed, 14 Jun 2017 14:05:10 -0700</pubDate>
+      <title>Week 1: Basic Topics</title>
+      <link>http://workshop.bcdata.ca/2017/post/first-week-lectures/</link>
+      <pubDate>Wed, 19 Jul 2017 09:50:40 -0700</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2017/post/location-update/</guid>
-      <description>&lt;p&gt;The bcdata workshop will take place at Robson Square in downtown Vancouver &amp;mdash; a convenient location for industry members and UBC &amp;amp; SFU students alike.&lt;/p&gt;
-
-&lt;p&gt;The venue will have a large lecture room and several break-out rooms for group work.&lt;/p&gt;
-
-&lt;p&gt;See &lt;a href=&#34;https://www.google.ca/maps/dir//UBC+Robson+Square,+800+Robson+St,+Vancouver,+BC+V6Z+3B7/@49.2827322,-123.1232848,17z/data=!4m15!1m6!3m5!1s0x5486717fec4f633f:0xbc9df6183755b650!2sUBC+Robson+Square!8m2!3d49.2827322!4d-123.1210961!4m7!1m0!1m5!1m1!1s0x5486717fec4f633f:0xbc9df6183755b650!2m2!1d-123.1210961!2d49.2827322?hl=en&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for directions to the workshop venue.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predicting and improving timeliness and personalization of Mobile Engagement messages</title>
-      <link>http://workshop.bcdata.ca/2017/project/project-3/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/project/project-3/</guid>
+      <guid>http://workshop.bcdata.ca/2017/post/first-week-lectures/</guid>
       <description>
 
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h1 id=&#34;focus&#34;&gt;Focus&lt;/h1&gt;
 
-&lt;p&gt;Mobile Engagement messaging is a relatively new domain for marketers.  It is the responsibility of technology companies to ensure that this new way of interacting with their customers is not abused.  At Mobify, we aim to do this by looking at data, to suggest best practices for Engaging with customers to reduce spam, and improve their experience.&lt;/p&gt;
+&lt;p&gt;Interactive lectures on introductory topics in data science will comprise the
+mronings of the first week of the workshop. The first three lectures will be
+led by
+&lt;a href=&#34;https://www.ischool.berkeley.edu/people/isabell-konrad&#34; target=&#34;_blank&#34;&gt;Isabell Konrad&lt;/a&gt; and
+will cover classification, regression, clustering and neural
+networks. Thursday&amp;rsquo;s lecture by &lt;a href=&#34;http://epims.med.ubc.ca/our-team/faculty/yinshan-zhao/&#34; target=&#34;_blank&#34;&gt;Yinshan Zhao&lt;/a&gt; will cover hypothesis testing and experimental
+design, while Friday&amp;rsquo;s lecture by Michael Reid will showcase modern software
+tools for data scientists.&lt;/p&gt;
 
-&lt;p&gt;Mobify collects millions of data points each month and currently delivers a full mobile experience to its clients. With your data modelling expertise, our goal is to personalize shoppers’ mobile experiences to reduce the noise and friction of their mobile experience.&lt;/p&gt;
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
 
-&lt;p&gt;The technical challenge is to develop predictive models that measure the timeliness and relevance of the mobile messages. Such predictive models can provide recommendations on how best to engage with shoppers:&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Who - Personalize to the different type of shoppers&lt;/li&gt;
-&lt;li&gt;When - When would be best to engage with shoppers&lt;/li&gt;
-&lt;li&gt;What - What content engages with shoppers the most.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&#34;linear-and-logistic-regression&#34;&gt;Linear and Logistic regression.&lt;/h3&gt;
 
-&lt;p&gt;Available data will include:&lt;/p&gt;
+&lt;p&gt;We will understand the first ML algorithm Linear Regression. We talk about train-test-split, normalization of the data, the problem of overfitting and regularization. A short code example shows how to use these tools in practice (using scikit-learn). Introduction to classification with metrics, Logistic Regression and coding example.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Anonymized mobile behaviour data from different brands&lt;/li&gt;
-&lt;li&gt;Anonymized Push message content for those customers&lt;/li&gt;
-&lt;li&gt;Weather data for particular locations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project Hop: Real-Time Agricultural Sensing</title>
-      <link>http://workshop.bcdata.ca/2017/project/project-4/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/project/project-4/</guid>
-      <description>
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
 
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h3 id=&#34;important-classifiers-and-clustering-methods&#34;&gt;Important classifiers and clustering methods.&lt;/h3&gt;
 
-&lt;p&gt;We are working with hop farmers around the province to develop the
-world’s first beer terroir. Terroir is a term used in the wine
-industry that refers to the unique flavours and aromas of grapes from
-different regions. It’s what people are talking about when comparing a
-wine from BC with a similar one from France. We want to work with you
-to develop terroir for beer. Instead of using grapes we are focusing
-on hops, one of the main ingredients in beer.&lt;/p&gt;
+&lt;p&gt;Decision Trees, ensembling methods. In addition: We learn K-Nearest-Neighbours and how to cluster data using KMeans. In a short code example the application of these methods is demonstrated.&lt;/p&gt;
 
-&lt;p&gt;Discovering hop terroir is important because hops from all over are
-sent to processing facilities to be dried, bundled and sold
-together. That means that all the tasty regional differences of each
-hop variety are washed out by the time they get to the brewer. Imagine
-how boring it would be if you could only order “IPA” or “stout” and
-not choose from the thousands of beers produced by different
-breweries. That’s what it’s like for hops, with brewers choosing only
-“centennial” or “cascade” without being able to pick from different
-regions with their own unique flavours. Let’s change this.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
 
-&lt;p&gt;We have developed a soil sensor system that measures temperature and
-moisture for both soil and air at different depths and heights,
-respectively. Each sensor has one base station with several nodes. We
-will collect data from many nodes, across several sensors within a
-farm at 5-minute intervals. This will give us a baseline for assessing
-growing conditions. We will know, at any given time, the temperature
-and moisture content of the air and soil throughout a farm. We will
-use these data in conjunction with data on farm management practices,
-soil chemistry, and soil microbial genetics to create a set of
-dependent variables for a predictive model of the environmental and
-management (farming) influences on hop yield and quality. Our
-dependent variables will be the weight of harvested hops per
-hectare/plant, quality of hops (measured by chemical analysis), and
-flavour (measured by brewing several beers using the exact same recipe
-and hop variety but from different regions and getting people to drink
-them and report back en-masse).&lt;/p&gt;
+&lt;h3 id=&#34;neural-networks&#34;&gt;Neural Networks.&lt;/h3&gt;
 
-&lt;p&gt;We want to be able to help farmers produce better hops so that
-breweries can make better beers, but we don’t want to have to build
-more sensors than is necessary to measure growing conditions on a
-farm. This is where we need your help. We are looking to develop an
-algorithm that will predict moisture and temperature between senor
-nodes. To do this effectively we will provide some additional
-data. This will include an elevation map of the farm and information
-on soil type and characteristics (e.g. water retention capacity and
-compaction)&lt;/p&gt;
+&lt;p&gt;This lecture is about Neural Networks, as well as feature engineering and a short code example in TensorFlow.&lt;/p&gt;
 
-&lt;p&gt;Being able to predict farm conditions with fewer sensors will help
-this technology become more affordable to small-scale producers
-allowing more growers to make better and more unique hops so we can
-all enjoy great beer. Real-time environmental monitoring of farms will
-also help farmers of all crop types have access to a technology that
-will allow them to better understand their land and adapt their
-management practices in real-time (e.g. changing or automating
-irrigation and fertilizer schedules as needed, when needed).&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
 
-&lt;p&gt;We look forward to the opportunity to work with you on this project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>http://workshop.bcdata.ca/2017/post/registration/</link>
-      <pubDate>Tue, 04 Apr 2017 11:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2017/post/registration/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Registration is now open! Please complete
-&lt;a href=&#34;https://goo.gl/forms/dowiyIBurStIvvEq1&#34; target=&#34;_blank&#34;&gt;this Google form&lt;/a&gt; to register for the
-2017 bcdata workshop in data science.&lt;/p&gt;
+&lt;h3 id=&#34;hypothesis-testing-and-experimental-design&#34;&gt;Hypothesis testing and experimental design.&lt;/h3&gt;
 
-&lt;/div&gt;
+&lt;p&gt;Firstly, we will discuss the purpose of hypothesis testing and learn how to do it. Through examples, we will introduce basic concepts, testing procedures, common misinterpretations and connection between hypothesis testing and estimation. Then we will discuss statistical considerations in study designs, such as sampling, controls, randomization, sample size and power. Finally, we will look into multiple testing procedures.&lt;/p&gt;
 
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
 
-&lt;p&gt;The registration deadline for this workshop is 15 July, 2017. Please note that registration is already near capacity, so register soon to ensure you will be able to attend.&lt;/p&gt;
+&lt;h3 id=&#34;modern-software-tools-for-data-scientists&#34;&gt;Modern Software Tools for Data Scientists.&lt;/h3&gt;
+
+&lt;p&gt;This lecture will cover the “plumbing” of data science — the software used for data ingestion, cleaning, storage, and analysis. We will provide an overview of the tools currently used by enterprises ingesting hundreds of thousand events per second and handling petabytes of data. Attendees will have a hands-on introduction to the machine learning tools used in industry, including distributed processing with AWS and Apache Spark. We also look into the future at the new generation of native stream processing platforms, used for real-time machine learning.&lt;/p&gt;
 </description>
     </item>
     

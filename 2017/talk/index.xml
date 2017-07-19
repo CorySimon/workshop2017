@@ -11,6 +11,91 @@
     <atom:link href="/2017/talk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Sequential Monte Carlo for Statistical Inference</title>
+      <link>http://workshop.bcdata.ca/2017/talk/sequential-mc-for-inference/</link>
+      <pubDate>Thu, 24 Aug 2017 13:30:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/sequential-mc-for-inference/</guid>
+      <description>
+
+&lt;p&gt;Note: the talk might be on time-series modelling instead.&lt;/p&gt;
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chbe.ubc.ca/profile/bhushan-gopaluni/&#34; target=&#34;_blank&#34;&gt;Dr. Bhushan Gopaluni&lt;/a&gt; is a
+Professor in the Department of Chemical and Biological Engineering at UBC,
+working with the
+&lt;a href=&#34;http://dais.chbe.ubc.ca/&#34; target=&#34;_blank&#34;&gt;Data Analytics and Intelligent Systems&lt;/a&gt; lab.&lt;/p&gt;
+
+&lt;p&gt;Dr. Gopaluni’s primary research interests are in Process Modeling and
+Control. He is interested in developing and studying the properties of
+data-based models for a variety of chemical and biological systems. These
+systems are typically nonlinear, hybrid and time varying, and their
+measurements are often noisy and irregular. The thrust of his research is on
+developing high quality models for such processes and adapting them to reflect
+process changes. His research interests also span a wide range of other areas
+including identification for control, model predictive controllers, adaptive
+control, and performance monitoring and assessment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compressed Sensing and Its Applications</title>
+      <link>http://workshop.bcdata.ca/2017/talk/compressed-sensing-and-applications/</link>
+      <pubDate>Wed, 23 Aug 2017 10:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/compressed-sensing-and-applications/</guid>
+      <description>
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://benadcock.org/&#34; target=&#34;_blank&#34;&gt;Ben Adcock&lt;/a&gt; is a tenure-track assistant professor at
+Simon Fraser University. From 2012-2014 he was a tenure-track assistant
+professor at Purdue University. Previously, he was a NSERC/PIMS postdoctoral
+fellow at Simon Fraser University from 2010-2012, working with Nilima Nigam,
+and from 2006-2010 he was a PhD student in the Numerical Analysis group at the
+University of Cambridge under the supervision of Arieh Iserles.&lt;/p&gt;
+
+&lt;p&gt;He received the CAIMS/PIMS Early Career Award in 2017, an Alfred P. Sloan Research Fellowship in 2015 and a Leslie Fox Prize in Numerical Analysis in 2011.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inferring the Past for Traits that Alter Speciation and Extinction</title>
+      <link>http://workshop.bcdata.ca/2017/talk/inferring-traits-speciation-extinction/</link>
+      <pubDate>Tue, 22 Aug 2017 10:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/inferring-traits-speciation-extinction/</guid>
+      <description>
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zoology.ubc.ca/~otto/&#34; target=&#34;_blank&#34;&gt;Sarah (Sally) P. Otto&lt;/a&gt;. University Killam &amp;amp; CRC (Tier 1) Professor, Department of Zoology &amp;amp; Director, Liber Ero Post-doctoral Program, University of British Columbia; B.Sc. and Ph.D. from Stanford University. Understanding how evolution has led to the remarkable diversity of life is the key motivating force behind my research. Mathematical models allow us to determine which evolutionary transitions are plausible, which are probable, and which are inaccessible. Complementing this theoretical approach, we use experimental evolution to track yeast as they evolve, allowing us to test alternative hypotheses. Dr. Otto’s research into the evolutionary forces leading to biological diversity has resulted in over 170 publications and a book. Awards include a MacArthur Fellowship, a Guggenheim Fellowship, the Steacie Prize (National Research Council, Canada), and fellowship in the Royal Society of Canada, the American Academy of Arts and Sciences, and the National Academy of Sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational linguistics</title>
+      <link>http://workshop.bcdata.ca/2017/talk/computational-linguistics/</link>
+      <pubDate>Mon, 21 Aug 2017 10:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/computational-linguistics/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; talk title and abstract to be confirmed.&lt;/p&gt;
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://people.math.sfu.ca/~tupper/Homepage/Welcome.html&#34; target=&#34;_blank&#34;&gt;Dr. Paul Tupper&lt;/a&gt; is
+an associate professor and tier 2 Canada Research Chair in the Department of
+Matheamtics at Simon Fraser University. Dr. Tupper&amp;rsquo;s interests are in Molecular
+dynamics, phase field models, phylogenetics, statistical mechanics, stochastic
+differential equations, mathematical modelling in linguistics; and numerical
+algorithms for all of these things.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Career Panel</title>
       <link>http://workshop.bcdata.ca/2017/talk/career-panel/</link>
       <pubDate>Wed, 16 Aug 2017 18:00:00 -0700</pubDate>

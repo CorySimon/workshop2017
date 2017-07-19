@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetics on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/tags/genetics/index.xml</link>
+    <description>Recent content in Genetics on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata</copyright>
+    <atom:link href="/2017/tags/genetics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 2: Advanced Topics</title>
+      <link>http://workshop.bcdata.ca/2017/post/advanced-topics/</link>
+      <pubDate>Wed, 19 Jul 2017 10:27:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/advanced-topics/</guid>
+      <description>
+
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+
+&lt;p&gt;In the mornings of the second week of the workshop, we will host advanced lectures on topics pertaining to data science. These talks are expected to be more academic in nature, showcasing research and research tools used by professors in either academia or industry. Speaker bios and abstracts can be found below.&lt;/p&gt;
+
+&lt;h1 id=&#34;talks&#34;&gt;Talks&lt;/h1&gt;
+
+&lt;h3 id=&#34;inferring-the-past-for-traits-that-alter-speciation-and-extinction-talk-inferring-traits-speciation-extinction&#34;&gt;&lt;a href=&#34;../../talk/inferring-traits-speciation-extinction&#34;&gt;Inferring the Past for Traits that Alter Speciation and Extinction&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Sarah Otto (&lt;a href=&#34;http://www.zoology.ubc.ca/~otto/&#34; target=&#34;_blank&#34;&gt;UBC Zoology&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&#34;compressed-sensing-and-applications-talk-compressed-sensing-and-applications&#34;&gt;&lt;a href=&#34;../../talk/compressed-sensing-and-applications&#34;&gt;Compressed Sensing and Applications&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Ben Adcock (&lt;a href=&#34;https://benadcock.org/&#34; target=&#34;_blank&#34;&gt;SFU Mathematics&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&#34;sequential-monte-carlo-for-statistical-inference-talk-sequential-mc-for-inference&#34;&gt;&lt;a href=&#34;../../talk/sequential-mc-for-inference&#34;&gt;Sequential Monte Carlo for Statistical Inference&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Bhushan Gopaluni (&lt;a href=&#34;http://dais.chbe.ubc.ca/&#34; target=&#34;_blank&#34;&gt;DAIS Lab&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&#34;computational-linguistics-talk-computational-linguistics&#34;&gt;&lt;a href=&#34;../../talk/computational-linguistics&#34;&gt;Computational Linguistics&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Paul Tupper (&lt;a href=&#34;http://people.math.sfu.ca/~tupper/Homepage/Welcome.html&#34; target=&#34;_blank&#34;&gt;SFU Mathematics&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,7 @@
     <atom:link href="/2017/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Predicting and improving timeliness and personalization of Mobile Engagement messages</title>
+      <title>Elucidating enhancer-promoter gene expression using ConvNets</title>
       <link>http://workshop.bcdata.ca/2017/project/project-3/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
@@ -20,25 +20,41 @@
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;Mobile Engagement messaging is a relatively new domain for marketers.  It is the responsibility of technology companies to ensure that this new way of interacting with their customers is not abused.  At Mobify, we aim to do this by looking at data, to suggest best practices for Engaging with customers to reduce spam, and improve their experience.&lt;/p&gt;
+&lt;p&gt;Different cell types in humans possess approximately the same genome despite
+having dramatically different functions. Gene regulation is the complex process
+by which cells selectively synthesize different proteins encoded in their
+genome. [1] A fundamental understanding of how genes are regulated can lead
+towards effective treatments for cancers and developmental disorders.&lt;/p&gt;
 
-&lt;p&gt;Mobify collects millions of data points each month and currently delivers a full mobile experience to its clients. With your data modelling expertise, our goal is to personalize shoppers’ mobile experiences to reduce the noise and friction of their mobile experience.&lt;/p&gt;
+&lt;p&gt;Enhancers are distal regulatory elements that, in conjunction with a promoter,
+recruit the proteins required to drive transcription of a gene. While the
+~20,000 genes in the human genome are known, we have not identified all of the
+enhancers linked to each gene. The goal of this project is to leverage Altius’s
+data on the genome-wide regulatory landscape [2] to match candidate enhancers
+with promoters (and, thus, genes) and identify synergistic protein binding
+motifs that can reveal key players in enhancer-promoter gene
+expression. Convolutional neural networks (ConvNets) [3] are a natural machine
+learning algorithm to approach such questions, as they automatically discover
+relevant protein binding motifs in DNA sequences from training data.&lt;/p&gt;
 
-&lt;p&gt;The technical challenge is to develop predictive models that measure the timeliness and relevance of the mobile messages. Such predictive models can provide recommendations on how best to engage with shoppers:&lt;/p&gt;
+&lt;p&gt;Challenges include building an interpretable and explainable ConvNet to extract biological insights from our genome-wide regulatory landscape data sets;
+and mapping DNA sequences to a vector space.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Who - Personalize to the different type of shoppers&lt;/li&gt;
-&lt;li&gt;When - When would be best to engage with shoppers&lt;/li&gt;
-&lt;li&gt;What - What content engages with shoppers the most.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;[1] Alberts B, &lt;em&gt;et al&lt;/em&gt;. Molecular Biology of the Cell, 4th ed. (2002)&lt;br /&gt;
+[2] Thurman RE, Rynes E, Humbert R, Vierstra J, Maurano MT, Haugen E, Sheffield NC, Stergachis AB, Wang H, Vernot B, Garg K. The accessible chromatin landscape of the human genome. Nature. 2012 Sep 6;489(7414):75.&lt;br /&gt;
+[3] LeCun Y, Bengio Y, Hinton G. Deep learning. Nature. 2015 May 28;521(7553):436-44.&lt;br /&gt;
+[4] Zabidi MA, Stark A. Regulatory enhancer–core-promoter communication via transcription factors and cofactors. Trends in Genetics. 2016 Dec 31;32(12):801-14.&lt;/p&gt;
 
-&lt;p&gt;Available data will include:&lt;/p&gt;
+&lt;h2 id=&#34;about-altius&#34;&gt;About Altius&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Anonymized mobile behaviour data from different brands&lt;/li&gt;
-&lt;li&gt;Anonymized Push message content for those customers&lt;/li&gt;
-&lt;li&gt;Weather data for particular locations&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The &lt;a href=&#34;http://www.altius.org/&#34; target=&#34;_blank&#34;&gt;Altius Institute for Biomedical Sciences&lt;/a&gt; is an
+independent, not-for-profit research institute based in Seattle,
+Washington. Altius aims to unlock the potential of the living genome to open
+new frontiers for basic science, technology development, and translational
+medicine. Altius is developing transformative technologies to understand how a
+cell’s genome controls its function in health and disease, and to translate
+this understanding effectively into clinical settings in the discovery of new
+medicines.&lt;/p&gt;
 </description>
     </item>
     

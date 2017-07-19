@@ -40,6 +40,8 @@ relevant protein binding motifs in DNA sequences from training data.&lt;/p&gt;
 &lt;p&gt;Challenges include building an interpretable and explainable ConvNet to extract biological insights from our genome-wide regulatory landscape data sets;
 and mapping DNA sequences to a vector space.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&#34;../../img/proj/altius/genes.png&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;[1] Alberts B, &lt;em&gt;et al&lt;/em&gt;. Molecular Biology of the Cell, 4th ed. (2002)&lt;br /&gt;
 [2] Thurman RE, Rynes E, Humbert R, Vierstra J, Maurano MT, Haugen E, Sheffield NC, Stergachis AB, Wang H, Vernot B, Garg K. The accessible chromatin landscape of the human genome. Nature. 2012 Sep 6;489(7414):75.&lt;br /&gt;
 [3] LeCun Y, Bengio Y, Hinton G. Deep learning. Nature. 2015 May 28;521(7553):436-44.&lt;br /&gt;
